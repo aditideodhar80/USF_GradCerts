@@ -1,0 +1,41 @@
+.igwtMainBlue2k7 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #15428B;
+	padding-right: 12px;
+	padding-left: 12px;
+	
+	/*border: 1px solid red;*/
+	background-color: #BFDBFF;
+
+
+}	
+
+.igwtTabNormalBlue2k7 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	background-color: #BFDBFF;
+
+
+
+
+
+}
+.igwtSeparatorBlue2k7 {
+	width: 20px;
+	
+}
+.igwtTabHoverBlue2k7 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	background-color: #BFDBFF;
+	
+}
+
+.igwtTabSelectedBlue2k7 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	background-color: #DBE7F5;
+	
+}
+

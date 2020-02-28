@@ -1,0 +1,104 @@
+﻿<%@ Master Language="VB" CodeFile="home.master.vb" Inherits="master_home" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title>Manage News</title>
+    <script src="../scripts/confirm.js" type="text/javascript"></script>
+     <script src="../scripts/manage.js" type="text/javascript" language=javascript></script>
+    <link href="../USF4YOU.css" rel="stylesheet" type="text/css" />
+    
+ 
+    <style type="text/css">
+        .style1
+        {
+            width: 22px;
+        }
+    </style>
+
+    
+</head>
+
+<body>
+    <form id="form1" runat="server">
+   
+<div id="TopGreen">
+<div class="style10" id="TopLogo"><img src="../images/USFTopBanner.PNG" border="0" usemap="#Map2" />
+<map name="Map2" id="Map2">
+  <area shape="rect" coords="15,5,226,40" href="http://www.usf.edu" target="_blank" alt="University of South Florida" />
+<area shape="rect" coords="486,18,535,30" href="http://www.usf.edu" target="_blank" alt="A-Z Index" />
+<area shape="rect" coords="545,19,627,29" href="http://www.outreach.usf.edu/" target="_blank" alt="Campus Directory" />
+<area shape="rect" coords="641,19,672,29" href="http://www.grad.usf.edu/newsite/main.asp" target="_blank" alt="Search" />
+<area shape="rect" coords="685,17,720,29" href="http://usfweb2.usf.edu/counsel/b_vet/v_home.html" target="_blank" alt="MyUSF" />
+</map>
+
+
+<div id="TopLogoSearch">
+    </div>
+    
+    </div>
+    </div>
+
+    
+    <div id="BodyWrapper">
+
+
+
+<div id="bodycontent">
+<div id="pagetop"></div>
+
+
+<div id="usf4youbanner">
+<img src="../images/USF4YOUBannerNew.png" border="0" usemap="#Map" />
+<map name="Map" id="Map"><area shape="rect" coords="14,8,327,75" href="http://www.usf4you.usf.edu/index.asp" alt="USF4YOU Home" />
+<area shape="rect" coords="364,34,440,44" href="http://www.usf4you.usf.edu/programs/programs.asp" alt="USF4YOU Text Only" />
+<area shape="rect" coords="456,34,619,44" href="http://www.usf4you.usf.edu/programs/deliveryoptions.asp" alt="USF Graduate School" />
+<area shape="rect" coords="631,33,773,44" href="http://www.usf4you.usf.edu/about/resources.asp" alt="USF Veterans Services" />
+<area shape="rect" coords="785,33,815,45" href="http://www.usf4you.usf.edu/about/faq.asp" alt="USF4YOU - Frequently Asked Questions" />
+</map
+><!--End of USF4YOU main banner -->
+</div>
+<br />
+
+	<div id="maincontainer3">
+	<div id="boxtop">	<div id="navigation">
+	<table width="100%">
+	    <tr>
+	        <td align="right" class="style1">
+	        </td>
+	         <td align="center" class="style1">
+	        </td>
+	    </tr>
+	</table>
+	
+	</div></div>
+
+<div class="managetitle">
+
+</div>
+  
+  <!--Add content-->
+  <div id="managenews">
+<asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+  </div>
+  
+  <!--End content-->
+  <div id="divider"></div>
+
+<div id="bottom"><img src="../Images/bottom2.gif" width="829" height="94" border="0" usemap="#Map4" />
+<map name="Map4" id="Map4"><area shape="rect" coords="531,26,646,37" href="mailto:usf4you@admin.usf.edu" alt="usf4you@admin.usf.edu" />
+</map></div>
+<!--End of bodycontent tag -->
+</div>
+<div id="tanbottom"></div>
+
+
+<div id="footer"></div>
+<!--End of Body Wrapper Div -->  
+</div>
+    </form>
+    
+</body>
+</html>

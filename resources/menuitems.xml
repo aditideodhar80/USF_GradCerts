@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<menuitems>
+  <adminprofile>
+    <menuitem title="Graduate Certificates : " path="~/manage/miviewcerts.aspx" tag="Graduate Certificates" />
+    <!--<menuitem title="Manage Graduate Certificates : " path="~/manage/miaddgradcerts.aspx" tag="Graduate Certificates" />-->
+    <menuitem title="USF Recruit :" path="~/manage/usfrecruit.aspx" tag="usfrecruit" />
+    <menuitem title="Logout " path="~/users/logout.aspx" tag="Logout" />
+  </adminprofile>
+</menuitems>

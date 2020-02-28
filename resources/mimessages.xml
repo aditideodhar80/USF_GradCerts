@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ROOT>
+  <NoNode>
+    <Header>
+      Requested page is not available
+
+    </Header>
+    <Message>
+      The web page that you have requested is not available. Please contact the site administrator for further instructions<BR /><BR /><BR />
+
+    </Message>
+    <LinkVisible>false</LinkVisible>
+    <LinkText></LinkText>
+    <LinkPath></LinkPath>
+  </NoNode>
+
+  <InvalidSession>
+    <Header>
+      Invalid Session
+
+    </Header>
+    <Message>
+      Your user session is not valid. Please login again<BR /><BR /><BR />
+
+    </Message>
+    <LinkVisible>True</LinkVisible>
+    <LinkText>Please Log In</LinkText>
+    <LinkPath>~/users/loginmsg.aspx</LinkPath>
+  </InvalidSession >
+
+  <InactiveAccount>
+    <Header>
+      Inactive Account
+
+    </Header>
+    <Message>
+      Your account is inactive. Please contact the site administrator for further instructions<BR /><BR /><BR />
+    </Message>
+    <LinkVisible>false</LinkVisible>
+    <LinkText></LinkText>
+    <LinkPath></LinkPath>
+  </InactiveAccount>
+
+  <DuplicateUser>
+    <Header>
+      Duplicate User
+
+    </Header>
+    <Message>
+      This user already exists in the Webisodes management website.<BR /><BR />
+    </Message>
+    <LinkVisible>false</LinkVisible>
+    <LinkText>Please Register</LinkText>
+    <LinkPath>~/users/loginmsg.aspx</LinkPath>
+  </DuplicateUser>
+
+
+  <TechErr>
+    <Header>
+      Technical Error!
+
+    </Header>
+    <Message>
+      The website is experiencing techincal difficulties. Please try again later. <BR /><BR />
+      If the problem persists, please contact the site administrator for further instructions<BR /><BR /><BR />
+    </Message>
+    <LinkVisible>false</LinkVisible>
+    <LinkText></LinkText>
+    <LinkPath></LinkPath>
+  </TechErr>
+
+  <!-- The querystring cannot indicate what user to get the information for -->
+  <InvalidUID>
+    <Header>
+      Requested Page is Unavailable
+
+    </Header>
+    <Message>
+      Your request for the page is not available.
+      Please contact the site administrator for further instructions<BR /><BR /><BR />
+    </Message>
+    <LinkVisible>false</LinkVisible>
+    <LinkText></LinkText>
+    <LinkPath></LinkPath>
+  </InvalidUID>
+
+  <!-- The querystring cannot indicate what user to get the information for -->
+  <InvalidEDPar>
+    <Header>
+      Requested Page is Unavailable
+
+    </Header>
+    <Message>
+      Your request for the page is not available.
+      Please contact the site administrator for further instructions<BR /><BR /><BR />
+    </Message>
+    <LinkVisible>false</LinkVisible>
+    <LinkText></LinkText>
+    <LinkPath></LinkPath>
+  </InvalidEDPar>
+
+
+</ROOT>
+

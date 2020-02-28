@@ -1,0 +1,1297 @@
+body {
+	margin-top: 0px;
+	background-image: url(images/Bg2.gif);
+	margin-right: 0px;
+	margin-left: 0px;
+}
+a:link{
+	font-size: 12px;
+	color: #005941;
+	text-decoration: none;
+}
+a:visited{
+	font-size: 12px;
+	color: #005941;
+	text-decoration: none;
+}
+a:hover{
+	font-size: 12px;
+	color: #005941;
+	text-decoration: underline;
+}
+a.programs:link{
+	text-decoration: none;
+}
+a.programs:visited{
+	font-size: 11px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a.programs:hover{
+	font-size: 11px;
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+a.delivery:link{
+	font-size: 11px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a.delivery:visited{
+	font-size: 11px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a.delivery:hover{
+	font-size: 11px;
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+a.resources:link{
+	font-size: 11px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a.resources:visited{
+	font-size: 11px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a.resources:hover{
+	font-size: 11px;
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+a.faq:link{
+	font-size: 11px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a.faq:visited{
+	font-size: 11px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a.faq:hover{
+	font-size: 11px;
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+a.aboutus:link{
+	font-size: 11px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a.aboutus:visited{
+	font-size: 11px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a.aboutus:hover{
+	font-size: 11px;
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+a.usf4youhome:link{
+	height: 75px;
+	width: 330px;
+}
+a.usf4youhome:hover{
+	height: 75px;
+	width: 330px;
+}
+a.certinfo:link{
+	font-size: 11px;
+	color: #005941;
+	text-decoration: none;
+}
+a.certinfo:visited{
+	font-size: 11px;
+	color: #005941;
+	text-decoration: none;
+}
+a.certinfo:hover{
+	font-size: 11px;
+	color: #005941;
+	text-decoration: underline;
+}
+a.callus{
+	height: 70px;
+	width: 197px;
+	margin-top: auto;
+	margin-left: 0px;
+	display: block;
+	margin-right: auto;
+	margin-bottom: auto;
+}
+a:hover.callus  {
+    background-image:url(images/callus.gif);
+    background-repeat: no-repeat;
+    text-decoration: none;
+}
+#getstarted1 {
+	background-image: url(images/GetStarted1.gif);
+	height: 176px;
+	width: 411px;
+	margin-left: 25px;
+	background-repeat: no-repeat;
+}
+#USFTopLogo {
+	height: 48px;
+	left: auto;
+	right: auto;
+	background-position: center;
+	background-image: url(images/TopBannerColor.gif);
+	background-repeat: repeat-x;
+	width: auto;
+	float: none;
+	margin-top: auto;
+	margin-right: 300px;
+	margin-bottom: auto;
+	margin-left: auto;
+}
+#TopGreen {
+	background-image: url(images/TopBannerColor.gif);
+	width: 100%;
+}
+#BodyWrapper {
+	width: 870px;
+	height: 100px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+	top: 0px;
+}
+#getstarted {
+	background-image: url(images/GetStarted.gif);
+	margin: auto;
+	height: 177px;
+	width: 829px;
+}
+#happeninginfo {
+	width: 390px;
+	margin-top: 45px;
+	margin-left: 15px;
+	color: #424138;
+}
+
+#bottom {
+	margin: auto;
+	height: 94px;
+	width: 829px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	text-align: center;
+	color: #4A4A43;
+	line-height: 18px;
+	background-image: url(images/bottom2.gif);
+}
+#copyright {
+	background-image: url(images/copyright.gif);
+	height: 42px;
+	width: 829px;
+	margin: auto;
+}
+
+#tanbottom {
+	background-image: url(images/bottomcorners2.gif);
+	height: 20px;
+	width: 886px;
+	margin: auto;
+}
+#footer {
+	background-image: url(images/newbottom.gif);
+	height: 51px;
+	width: 886px;
+	border-bottom-style: none;
+	margin-top: auto;
+	margin-right: auto;
+	margin-bottom: 20px;
+	margin-left: 0px;
+	background-repeat: no-repeat;
+}
+#welcomecontent {
+	height: 79px;
+	width: 556px;
+	margin-left: 278px;
+	margin-top: 0px;
+	background-color: #EAE9DB;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 18px;
+	color: #4A4A43;
+	padding-left: 5px;
+}
+#welcome {
+	background-image: url(images/welcome.gif);
+	height: 79px;
+	width: 277px;
+	margin-top: 5px;
+	margin-bottom: 10px;
+	margin-left: 25px;
+}
+#welcomeprofmasters {
+	background-image: url(images/profmasterstitle.gif);
+	height: 90px;
+	width: 342px;
+	margin-top: 12px;
+	margin-bottom: 10px;
+	margin-left: 30px;
+	background-repeat: no-repeat;
+}
+#welcomedistance {
+	background-image: url(images/distancelearningtitle.gif);
+	height: 90px;
+	width: 342px;
+	margin-top: 12px;
+	margin-bottom: 10px;
+	margin-left: 30px;
+	background-repeat: no-repeat;
+}
+#welcomealternative {
+	background-image: url(images/alternativetitle.gif);
+	height: 90px;
+	width: 342px;
+	margin-top: 12px;
+	margin-bottom: 10px;
+	margin-left: 30px;
+	background-repeat: no-repeat;
+}
+#welcomefaq {
+	background-image: url(images/faq.gif);
+	height: 90px;
+	width: 342px;
+	margin-top: 12px;
+	margin-bottom: 10px;
+	margin-left: 30px;
+	background-repeat: no-repeat;
+}
+#welcomeaboutus {
+	background-image: url(images/aboutustitle.gif);
+	height: 90px;
+	width: 342px;
+	margin-top: 12px;
+	margin-bottom: 10px;
+	margin-left: 30px;
+	background-repeat: no-repeat;
+}
+#welcomecontentprofmasters {
+	height: 90px;
+	width: 469px;
+	margin-left: 355px;
+	background-color: #EAE9DB;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 18px;
+	color: #43433C;
+	padding-left: 5px;
+	border-left-width: thin;
+	border-left-style: dotted;
+}
+#welcomecontentdistance {
+	height: 90px;
+	width: 469px;
+	margin-left: 355px;
+	background-color: #EAE9DB;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 18px;
+	color: #56564E;
+	border-left-width: thin;
+	border-left-style: dotted;
+	padding-left: 5px;
+}
+#welcomecontentalternative {
+	height: 90px;
+	width: 469px;
+	margin-left: 355px;
+	background-color: #EAE9DB;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 18px;
+	color: #56564E;
+	border-left-width: thin;
+	border-left-style: dotted;
+	padding-left: 5px;
+}
+#welcomecontentprograms {
+	height: 90px;
+	width: 469px;
+	margin-left: 355px;
+	background-color: #EAE9DB;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 18px;
+	padding-left: 5px;
+	border-left-width: thin;
+	border-left-style: dotted;
+	color: #434138;
+}
+#welcomecontentnoncredit {
+	height: 90px;
+	width: 469px;
+	margin-left: 355px;
+	background-color: #EAE9DB;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #56564E;
+	line-height: 18px;
+	padding-left: 5px;
+	border-left-width: thin;
+	border-left-style: dotted;
+}
+#welcomecontentbachelors {
+	height: 90px;
+	width: 469px;
+	margin-left: 355px;
+	background-color: #EAE9DB;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #56564E;
+	line-height: 18px;
+	padding-left: 5px;
+	border-left-width: thin;
+	border-left-style: dotted;
+}
+#welcomecontentgradcerts {
+	height: 90px;
+	width: 469px;
+	margin-left: 355px;
+	background-color: #EAE9DB;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #56564E;
+	line-height: 18px;
+	padding-left: 5px;
+	border-left-width: thin;
+	border-left-style: dotted;
+}
+#welcomecontentgradapp {
+	height: 90px;
+	width: 469px;
+	margin-left: 355px;
+	background-color: #EAE9DB;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #56564E;
+	line-height: 18px;
+	padding-left: 5px;
+	border-left-style: dotted;
+	border-left-width: thin;
+}
+#welcomecontentapply {
+	height: 90px;
+	width: 469px;
+	margin-left: 355px;
+	background-color: #EAE9DB;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #56564E;
+	line-height: 18px;
+	padding-left: 5px;
+}
+#welcomecontentnondegree {
+	height: 90px;
+	width: 469px;
+	margin-left: 355px;
+	background-color: #EAE9DB;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #56564E;
+	line-height: 18px;
+	padding-left: 5px;
+	border-left-width: thin;
+	border-left-style: dotted;
+}
+#welcomecontentcallus {
+	height: 90px;
+	width: 469px;
+	margin-left: 355px;
+	background-color: #EAE9DB;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #56564E;
+	line-height: 18px;
+	padding-left: 5px;
+}
+#welcomecontentemailus {
+	height: 90px;
+	width: 469px;
+	margin-left: 355px;
+	background-color: #EAE9DB;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #56564E;
+	line-height: 18px;
+	padding-left: 5px;
+	border-left-width: thin;
+	border-left-style: dotted;
+}
+#welcomecontentmoreinfo {
+	height: 90px;
+	width: 469px;
+	margin-left: 355px;
+	background-color: #EAE9DB;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #56564E;
+	line-height: 18px;
+	padding-left: 5px;
+	border-left-width: thin;
+	border-left-style: dotted;
+}
+#welcomecontentresources {
+	height: 90px;
+	width: 469px;
+	margin-left: 355px;
+	background-color: #EAE9DB;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #56564E;
+	line-height: 18px;
+	padding-left: 5px;
+	border-left-width: thin;
+	border-left-style: dotted;
+}
+#welcomecontentdeliveryoptions {
+	height: 90px;
+	width: 469px;
+	margin-left: 355px;
+	background-color: #EAE9DB;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #56564E;
+	line-height: 18px;
+	padding-left: 5px;
+	border-left-width: thin;
+	border-left-style: dotted;
+}
+#welcomecontenttradmasters {
+	height: 90px;
+	width: 469px;
+	margin-left: 355px;
+	background-color: #EAE9DB;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #56564E;
+	line-height: 18px;
+	padding-left: 5px;
+	border-left-width: thin;
+	border-left-style: dotted;
+}
+#welcomeprograms {
+	background-image: url(images/programsintro.gif);
+	height: 90px;
+	width: 342px;
+	margin-top: 12px;
+	margin-bottom: 10px;
+	margin-left: 30px;
+	background-repeat: no-repeat;
+}
+#welcomenoncredit {
+	background-image: url(images/noncredittitle.gif);
+	height: 90px;
+	width: 342px;
+	margin-top: 12px;
+	margin-bottom: 10px;
+	margin-left: 30px;
+	background-repeat: no-repeat;
+}
+#welcomebachelors {
+	background-image: url(images/bachelorstitle.gif);
+	height: 90px;
+	width: 342px;
+	margin-top: 12px;
+	margin-bottom: 10px;
+	margin-left: 30px;
+	background-repeat: no-repeat;
+}
+#welcomegradcerts {
+	background-image: url(images/gradcertstitle.gif);
+	height: 90px;
+	width: 342px;
+	margin-top: 12px;
+	margin-bottom: 10px;
+	margin-left: 30px;
+	background-repeat: no-repeat;
+}
+#welcomegradapp {
+	background-image: url(images/gradapptitle.gif);
+	height: 90px;
+	width: 342px;
+	margin-top: 12px;
+	margin-bottom: 10px;
+	margin-left: 30px;
+	background-repeat: no-repeat;
+}
+#welcomeapply {
+	background-image: url(images/applytitle.gif);
+	height: 90px;
+	width: 342px;
+	margin-top: 12px;
+	margin-bottom: 10px;
+	margin-left: 30px;
+	background-repeat: no-repeat;
+}
+#welcomenondegree {
+	background-image: url(images/nondegreetitle.gif);
+	height: 90px;
+	width: 342px;
+	margin-top: 12px;
+	margin-bottom: 10px;
+	margin-left: 30px;
+	background-repeat: no-repeat;
+}
+#welcomeregister {
+	background-image: url(images/registertitle.gif);
+	height: 90px;
+	width: 342px;
+	margin-top: 12px;
+	margin-bottom: 10px;
+	margin-left: 30px;
+	background-repeat: no-repeat;
+}
+#welcomenondegreeapp {
+	background-image: url(images/nonapplicationtitle.gif);
+	height: 90px;
+	width: 342px;
+	margin-top: 12px;
+	margin-bottom: 10px;
+	margin-left: 30px;
+	background-repeat: no-repeat;
+}
+#welcomecallus {
+	background-image: url(images/callustitle.gif);
+	height: 63px;
+	width: 342px;
+	margin-top: 12px;
+	margin-bottom: 10px;
+	margin-left: 30px;
+	background-repeat: no-repeat;
+}
+#welcomeemailus {
+	background-image: url(images/contactustitle.gif);
+	height: 90px;
+	width: 342px;
+	margin-top: 12px;
+	margin-bottom: 10px;
+	margin-left: 30px;
+	background-repeat: no-repeat;
+}
+#welcomemoreinfo {
+	background-image: url(images/helpyoutitle.gif);
+	height: 90px;
+	width: 342px;
+	margin-top: 12px;
+	margin-bottom: 10px;
+	margin-left: 30px;
+	background-repeat: no-repeat;
+}
+#welcomethankyou {
+	background-image: url(images/thankyoutitle.gif);
+	height: 90px;
+	width: 342px;
+	margin-top: 12px;
+	margin-bottom: 10px;
+	margin-left: 30px;
+	background-repeat: no-repeat;
+}
+#welcomeresources {
+	background-image: url(images/resourcestitle.gif);
+	height: 90px;
+	width: 342px;
+	margin-top: 12px;
+	margin-bottom: 10px;
+	margin-left: 30px;
+	background-repeat: no-repeat;
+}
+#welcomedeliveryoptions {
+	background-image: url(images/deliverytitle.gif);
+	height: 90px;
+	width: 342px;
+	margin-top: 12px;
+	margin-bottom: 10px;
+	margin-left: 30px;
+	background-repeat: no-repeat;
+}
+#welcometradmasters {
+	background-image: url(images/traditionaltitle.gif);
+	height: 90px;
+	width: 342px;
+	margin-top: 12px;
+	margin-bottom: 10px;
+	margin-left: 30px;
+	background-repeat: no-repeat;
+}
+#profmastasp {
+	margin-top: 40px;
+	margin-left: 80px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-right: 50px;
+}
+#distanceasp {
+	margin-top: 40px;
+	margin-left: 80px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-right: 50px;
+}
+#alternativeasp {
+	margin-top: 40px;
+	margin-left: 80px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-right: 50px;
+}
+#noncreditcontent {
+	margin-top: 40px;
+	margin-left: 80px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-right: 50px;
+	font-size: 12px;
+	line-height: 18px;
+}
+#calluscontent {
+	margin-top: 40px;
+	margin-left: 80px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-right: 50px;
+	font-size: 12px;
+	line-height: 18px;
+}
+#emailuscontent {
+	margin-top: 40px;
+	margin-left: 80px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-right: 50px;
+	font-size: 12px;
+	line-height: 18px;
+}
+#moreinfocontent {
+	margin-top: 40px;
+	margin-left: 80px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-right: 50px;
+	font-size: 12px;
+	line-height: 18px;
+}
+#resourcescontent {
+	margin-top: 40px;
+	margin-left: 80px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-right: 50px;
+	font-size: 12px;
+	line-height: 18px;
+}
+#deliveryoptionscontent {
+	margin-top: 40px;
+	margin-left: 80px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-right: 50px;
+	font-size: 12px;
+	line-height: 18px;
+}
+#tradmasterscontent {
+	margin-top: 40px;
+	margin-left: 80px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-right: 50px;
+	font-size: 12px;
+	line-height: 18px;
+}
+#nondegreecontent {
+	margin-top: 40px;
+	margin-left: 80px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-right: 50px;
+	font-size: 12px;
+	line-height: 18px;
+}
+#bachelorscontent {
+	margin-top: 40px;
+	margin-left: 80px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-right: 50px;
+	font-size: 12px;
+}
+#gradcertscontent {
+	margin-top: 40px;
+	margin-left: 80px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-right: 50px;
+	font-size: 12px;
+}
+#applycontent {
+	margin-top: 40px;
+	margin-left: 80px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-right: 50px;
+	font-size: 12px;
+	line-height: 18px;
+}
+#faq {
+	margin-top: 40px;
+	margin-left: 80px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-right: 50px;
+	font-size: 12px;
+	color: #000000;
+	width: 700px;
+	padding: 5px;
+}
+#aboutus {
+	margin-top: 40px;
+	margin-left: 80px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-right: 50px;
+	font-size: 12px;
+	color: #000000;
+	width: 700px;
+	padding: 5px;
+}
+#programsasp {
+	margin-top: 40px;
+	margin-left: 80px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-right: 50px;
+	float: none;
+	height: auto;
+	width: 700px;
+	font-size: 12px;
+}
+#fulfill {
+	background-image: url(images/Fulfill.gif);
+	height: 191px;
+	width: 835px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 25px;
+	background-repeat: no-repeat;
+}
+#roundbuttons {
+	background-image: url(images/RoundButtons.png);
+	height: 50px;
+	width: 833px;
+	border-top-style: solid;
+	border-right-style: none;
+	border-bottom-style: solid;
+	border-left-style: none;
+	border-top-color: #005941;
+	border-right-color: #005941;
+	border-bottom-color: #005941;
+	border-left-color: #005941;
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+	margin-top: 38px;
+	margin-left: 0px;
+	background-repeat: no-repeat;
+	float: left;
+	background-position: center;
+}
+#fulfiltext {
+	width: 50px;
+	height: 60px;
+	float: left;
+}
+
+#finishtext {
+	background-color: #EAE9DB;
+	top: 45px;
+	left: 15px;
+	width: 170px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 14pt;
+	font-weight: normal;
+	color: #63635B;
+	height: auto;
+	margin-top: 10px;
+	margin-left: 26px;
+	float: left;
+}
+#callus {
+	height: 70px;
+	width: 190px;
+	margin-top: 30.5px;
+	margin-left: 2px;
+}
+
+#fulfilltext {
+	margin: auto;
+}
+
+#Beginstudies {
+	background-color: #EAE9DB;
+	top: 45px;
+	left: 15px;
+	width: 170px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 14pt;
+	font-weight: normal;
+	color: #63635B;
+	height: auto;
+	margin-top: 10px;
+	margin-left: 30px;
+	float: left;
+}
+#takeafewclasses {
+	background-color: #EAE9DB;
+	top: 45px;
+	left: 15px;
+	width: 175px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 14pt;
+	font-weight: normal;
+	color: #63635B;
+	height: auto;
+	margin-top: 10px;
+	margin-left: 72px;
+	float: left;
+	text-decoration: none;
+}
+#learnatyourconvenience {
+	top: 50px;
+	left: 15px;
+	width: 160px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 14pt;
+	font-weight: normal;
+	color: #63635B;
+	height: auto;
+	margin-top: 10px;
+	margin-left: 0px;
+	margin-right: 11px;
+	margin-bottom: 0px;
+	float: right;
+}
+#divider {
+	background-image: url(images/dividerlogo.gif);
+	height: 18px;
+	width: 836px;
+	margin-top: 2px;
+	margin-right: auto;
+	margin-bottom: 2px;
+	margin-left: auto;
+}
+#happening {
+	margin-top: -176px;
+	margin-left: 445px;
+	background-image: url(images/WhatsHappening.png);
+	height: 176px;
+	width: 414px;
+	background-repeat: no-repeat;
+}
+#getstartedbg {
+	background-image: url(images/getstartedinfo.gif);
+	height: 144px;
+	width: 394px;
+	margin-top: 31px;
+	margin-left: 8px;
+}
+#whatshappeningcontent {
+	color: #4A4A43;
+	float: left;
+	margin-top: 45px;
+	margin-left: 15px;
+}
+#actualhappeningcontent {
+	float: left;
+	margin-top: -2px;
+	margin-left: 15px;
+	width: 390px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #424138;
+}
+#pagetop {
+	background-image: url(images/pagetop3.gif);
+	margin-top: 0px;
+	height: 10px;
+	width: 886px;
+	background-repeat: no-repeat;
+}
+#bodycontent {
+	background-image: url(images/bodycontent2.gif);
+	margin: 0px;
+	height: auto;
+	width: 886px;
+	background-repeat: repeat-y;
+}
+#flasharea {
+	background-image: url(images/FlashArea.gif);
+	height: 205px;
+	width: 834px;
+	margin-top: 5px;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+}
+#usf4youbanner {
+	background-image: url(images/USF4YOUBanner2.gif);
+	margin: auto;
+	height: 81px;
+	width: 834px;
+	background-repeat: no-repeat;
+	visibility: visible;
+}
+#programslink {
+	float: left;
+	height: 25px;
+	width: 75px;
+}
+
+#usf4youtoplinks {
+	font-family: "Universal Black";
+	font-size: 11px;
+	color: #FFFFFF;
+	margin-top: 30px;
+	margin-left: 380px;
+	float: left;
+}
+
+#toplinks {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 12px;
+	font-weight: 800;
+	color: #FFFFFF;
+	width: 460px;
+	margin-top: 30px;
+	margin-left: 365px;
+}
+
+#TopLogo {
+	background-image: url(images/USFTopBanner.gif);
+	height: 48px;
+	width: 874px;
+	margin: auto;
+	padding-left: 10px;
+}
+#TopLogoSearch {
+	height: 20px;
+	width: 132px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	margin-top: -35px;
+	margin-left: 735px;
+}
+#callbanner {
+	background-image: url(images/callbanner.png);
+	height: 35px;
+	width: 834px;
+	margin-top: 5px;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+}
+#flash {
+	height: 170px;
+	width: 835px;
+	margin-top: -3px;
+	margin-right: 0px;
+	margin-bottom: 5px;
+	margin-left: 25px;
+}
+#flashprofmasters {
+	height: 170px;
+	width: 835px;
+	margin-top: auto;
+	margin-right: auto;
+	margin-bottom: 5px;
+	margin-left: 26px;
+	background-image: url(images/middlepicMBA.gif);
+	background-repeat: no-repeat;
+}
+#flashbachelors {
+	height: 170px;
+	width: 833px;
+	margin-top: auto;
+	margin-right: auto;
+	margin-bottom: 5px;
+	margin-left: 26px;
+	background-image: url(images/middlepicteach.gif);
+	background-repeat: no-repeat;
+}
+#flashgradcerts {
+	height: 170px;
+	width: 834px;
+	margin-top: auto;
+	margin-right: auto;
+	margin-bottom: 5px;
+	margin-left: 26px;
+	background-image: url(images/middlepiccontinue.gif);
+	background-repeat: no-repeat;
+}
+#flashnoncredit {
+	height: 170px;
+	width: 834px;
+	margin-top: auto;
+	margin-right: auto;
+	margin-bottom: 5px;
+	margin-left: 26px;
+	background-image: url(images/middlepicengineer.gif);
+	background-repeat: no-repeat;
+}
+#flashnondegree {
+	height: 170px;
+	width: 834px;
+	margin-top: auto;
+	margin-right: auto;
+	margin-bottom: 5px;
+	margin-left: 26px;
+	background-image: url(Images/middlepiccontinue.gif);
+	background-repeat: no-repeat;
+}
+#flashdistance {
+	height: 170px;
+	width: 835px;
+	margin-top: auto;
+	margin-right: auto;
+	margin-bottom: 5px;
+	margin-left: 26px;
+	background-image: url(Images/onlinemiddlepic.gif);
+	background-repeat: no-repeat;
+}
+#flashprograms {
+	height: 170px;
+	width: 835px;
+	margin-top: auto;
+	margin-right: auto;
+	margin-bottom: 5px;
+	margin-left: 26px;
+	background-image: url(images/middlepicengineer.gif);
+	background-repeat: no-repeat;
+}
+#flashnondegreeapp {
+	height: 170px;
+	width: 834px;
+	margin-top: auto;
+	margin-right: auto;
+	margin-bottom: 5px;
+	margin-left: 26px;
+	background-image: url(images/middlepicteach.gif);
+	background-repeat: no-repeat;
+}
+#flashgradapp {
+	height: 170px;
+	width: 834px;
+	margin-top: auto;
+	margin-right: auto;
+	margin-bottom: 5px;
+	margin-left: 26px;
+	background-image: url(images/middlepicteach.gif);
+	background-repeat: no-repeat;
+}
+#programsb {
+	height: 11px;
+	width: 78px;
+	margin-top: 31px;
+	margin-left: 351px;
+	float: left;
+}
+#USF4YOUHomeLink {
+	height: 75px;
+	width: 330px;
+}
+#rightdiv {
+	height: 90px;
+	width: 400px;
+	float: right;
+}
+#finish_text_wrap {
+	width: 830px;
+	height: 90px;
+	background-position: center;
+}
+#welcome2 {
+	height: 79px;
+	width: 277px;
+	margin-top: 5px;
+	margin-bottom: 10px;
+	margin-left: 25px;
+}
+#welcomecontent1 {
+	height: 79px;
+	width: 550px;
+	margin-left: 278px;
+	margin-top: -70px;
+	background-color: #EAE9DB;
+	color: #4A4A43;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 18px;
+	padding-left: 5px;
+}
+#oshercontent {
+	margin-top: 40px;
+	margin-left: 80px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-right: 50px;
+	font-size: 12px;
+	color: #4A4A43;
+}
+#welcomeosher {
+	background-image: url(images/oshertitle.gif);
+	height: 90px;
+	width: 342px;
+	margin-top: 12px;
+	margin-bottom: 10px;
+	margin-left: 30px;
+	background-repeat: no-repeat;
+}
+#bachelorscontentBGS {
+	margin-top: 20px;
+	margin-left: 50px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-right: 50px;
+	font-size: 12px;
+}
+#BGSBanner {
+	height: 236px;
+	width: 836px;
+	margin-top: auto;
+	margin-left: 23px;
+	margin-right: auto;
+	background-image: url(images/bgsBanner.png);
+	background-repeat: no-repeat;
+}
+#GradCertsBanner {
+	height: 236px;
+	width: 836px;
+	margin-top: auto;
+	margin-left: 26px;
+	margin-right: auto;
+	background-image: url(images/banners/gradCerts.png);
+	background-repeat: no-repeat;
+}
+#NonDegreeUGBanner {
+	height: 236px;
+	width: 836px;
+	margin-top: auto;
+	margin-left: 26px;
+	margin-right: auto;
+	background-image: url(images/banners/nonDegreeUG.png);
+	background-repeat: no-repeat;
+}
+#NonDegreeGradBanner {
+	height: 236px;
+	width: 836px;
+	margin-top: auto;
+	margin-left: 26px;
+	margin-right: auto;
+	background-image: url(images/banners/nonDegreeGrad.png);
+	background-repeat: no-repeat;
+}
+#AdultResourcesBanner {
+	height: 236px;
+	width: 836px;
+	margin-top: auto;
+	margin-left: 26px;
+	margin-right: auto;
+	background-image: url(images/banners/adultResources.png);
+	background-repeat: no-repeat;
+}
+#OnlineLearningBanner {
+	height: 236px;
+	width: 836px;
+	margin-top: auto;
+	margin-left: 26px;
+	margin-right: auto;
+	background-image: url(images/banners/onlineLearning.png);
+	background-repeat: no-repeat;
+}
+#BGSContent {
+	height: 90px;
+	width: 425px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 18px;
+	color: #FFFFFF;
+	padding-top: 90px;
+	margin-left: 20px;
+}
+
+/* manage news CSS */
+
+#managenews {
+	margin-top: 40px;
+	margin-left: 40px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-right: 50px;
+	font-size: 12px;
+	color: #000000;
+	width: 800px;
+	padding: 5px;
+}
+
+.buttonstyle
+{
+background-color:#f5f5f5;
+color:#006c52;
+}
+
+ td.prompt
+        {
+			font-family: Arial, Helvetica, Verdana, Sans-Serif;
+			font-size: 12px;
+			font-weight:bold;
+			width:25%;
+			height:40px;
+			/*background-color:#efefde;
+			border-color:#929282; */
+			border-left:none;
+			border-right:none;
+			border-top:none;
+			 border-bottom: solid 1px #eef7dc;
+		 border-bottom:none;
+        }
+        
+        td.entry
+        {
+			
+			/*background-color:#fffff7;
+			border-color:#929282;*/
+			border-left:none;
+			border-right:none;
+			border-top:none;
+			 border-bottom: solid 1px #eef7dc;
+			 border-bottom:none;
+        }
+        
+        .managetitle
+        {
+        margin-left: 40px;
+        font-size:24px;
+        width:800px;
+        text-align:center;
+        border-bottom:2px solid #000000;
+        }
+        .newsheader
+        {
+         font-weight:bold;
+         width:99%;
+          text-transform:capitalize;
+          background-color:#005941;
+           color:#ffffff;
+          height:40px;
+          text-align:center;
+          }
+          
+          .hide
+          {
+           display:none;
+          }
+          
+             .buttonbgimage
+        {
+			 background: url(images/mid.gif);
+			 font-family: Verdana, Arial, Sans-Serif;
+			 font-size:12px;
+			  font-weight:bold;
+			  color:White;
+        }
